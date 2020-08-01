@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mask Notifier</string>
+    <string name="mapKey">GoogleMapsApiKey</string>
+</resources>
